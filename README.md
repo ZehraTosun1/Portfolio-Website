@@ -1,12 +1,18 @@
-# Portfolio Website
+# Zehra Tosun Portfolio Website
 
-This repository contains my portfolio website for my JavaScript course.
+This repository contains my final portfolio website for my HTML, CSS, and Bootstrap course.
 
-The website includes HTML, CSS, and JavaScript. It shows information about me, my course projects, and a contact section.
+The portfolio website includes:
+- About Me section
+- Projects section
+- Contact section
+- HTML and CSS styling
 
-Projects included:
+Projects completed in this course:
 - One-Page Website
 - The Pet Shop Website
-- JavaScript Practice
+- Simple Recipes
+- Creating CSS Effects
+- Academy Cinemas Bootstrap Website
 
-This portfolio website is deployed using GitHub Pages.
+This website is published using GitHub Pages.
