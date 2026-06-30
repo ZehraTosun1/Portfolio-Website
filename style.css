@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f4f4f9;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -9,7 +9,7 @@ body {
 header {
     background-color: #4b0082;
     color: white;
-    padding: 30px;
+    padding: 40px;
 }
 
 nav {
@@ -30,7 +30,7 @@ section {
     margin: 25px auto;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 0 0 8px gray;
+    box-shadow: 0 0 8px lightgray;
 }
 
 .project-card {
@@ -43,20 +43,6 @@ section {
 
 h2 {
     color: #4b0082;
-}
-
-button {
-    background-color: #4b0082;
-    color: white;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 8px;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #2e0055;
 }
 
 footer {
